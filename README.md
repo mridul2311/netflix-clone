@@ -1,6 +1,6 @@
 # Demo
 
-(https://netflix-clone-dcf13.web.app/)
+https://netflix-clone-dcf13.web.app/
 
 # Getting Started with Create React App
 
