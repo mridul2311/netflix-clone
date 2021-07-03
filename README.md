@@ -1,3 +1,5 @@
+Netflix clone (front-end) with react js.
+
 # Demo
 
 https://netflix-clone-dcf13.web.app/
